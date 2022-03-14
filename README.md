@@ -6,8 +6,8 @@ Let's study with each other!
 
 
 - 🔭 I’m currently working on ReforcementLearning
-- 🌱 I’m currently learning how to combine ReforcementLearning with SDN
-- 👯 I’m looking to collaborate on SDN
+- 🌱 I’m currently learning mpquic/mptcp
+- 👯 I’m looking to collaborate on mpquic
 
 <!--
 **whisperLiang/whisperLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
