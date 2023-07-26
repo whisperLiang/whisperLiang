@@ -7,7 +7,7 @@ Let's study with each other!
 
 - 🔭 I’m currently working on ReforcementLearning
 - 🌱 I’m currently learning computer network
-- 👯 I’m looking to collaborate on datacenter network with RDMA
+- 👯 I’m looking to collaborate on distributed collaborative inference 
 
 <!--
 **whisperLiang/whisperLiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
